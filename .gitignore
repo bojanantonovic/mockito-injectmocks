@@ -1,2 +1,23 @@
-# Project exclude paths
-/target/
+**/target/
+
+**/doc/
+
+**/bin/
+
+**/.classpath
+
+**/.project
+
+**/.settings
+
+**/.DS_Store
+
+**/*.prefs
+
+**/*.iml
+
+**/.idea/
+
+**/.gradle
+
+**/build/
